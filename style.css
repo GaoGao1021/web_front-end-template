@@ -1,3 +1,4 @@
+
 /* 全選選擇器 */
 * {
     margin: 0px;
@@ -58,94 +59,6 @@ body {
     /* 過度動畫長度指定半秒鐘 */
     transition: all .5s;
 }
-
-.wrapper .btn:nth-child(2){
-    width: 50rem;
-    /* 撐開內邊距 */
-    padding: 3%;
-    /* 陰影 */
-    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
-    /* 外框 */
-    border: 1px solid #51515130;
-    /* 變形, 幅度為 .3rem (圓角矩形) */
-    border-radius: .3rem;
-    /* 過度動畫長度指定半秒鐘 */
-    transition: all .5s;
-
-    background-color: #FF5733;
-    color: white;
-}
-
-.wrapper .btn:nth-child(2){
-    width: 50rem;
-    /* 撐開內邊距 */
-    padding: 3%;
-    /* 陰影 */
-    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
-    /* 外框 */
-    border: 1px solid #51515130;
-    /* 變形, 幅度為 .3rem (圓角矩形) */
-    border-radius: .3rem;
-    /* 過度動畫長度指定半秒鐘 */
-    transition: all .5s;
-
-    background-color: #FF5733;
-    color: rgb(0, 102, 255);
-}
-
-
-.wrapper .btn:nth-child(3){
-    width: 50rem;
-    /* 撐開內邊距 */
-    padding: 3%;
-    /* 陰影 */
-    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
-    /* 外框 */
-    border: 1px solid #51515130;
-    /* 變形, 幅度為 .3rem (圓角矩形) */
-    border-radius: .3rem;
-    /* 過度動畫長度指定半秒鐘 */
-    transition: all .5s;
-
-    background-color: #ff33c2;
-    color: rgb(200, 255, 0);
-}
-
-
-.wrapper .btn:nth-child(4){
-    width: 50rem;
-    /* 撐開內邊距 */
-    padding: 3%;
-    /* 陰影 */
-    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
-    /* 外框 */
-    border: 1px solid #51515130;
-    /* 變形, 幅度為 .3rem (圓角矩形) */
-    border-radius: .3rem;
-    /* 過度動畫長度指定半秒鐘 */
-    transition: all .5s;
-
-    background-color: #8d00a0;
-    color: rgb(0, 0, 0);
-}
-
-.wrapper .btn:nth-child(5){
-    width: 50rem;
-    /* 撐開內邊距 */
-    padding: 3%;
-    /* 陰影 */
-    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
-    /* 外框 */
-    border: 1px solid #51515130;
-    /* 變形, 幅度為 .3rem (圓角矩形) */
-    border-radius: .3rem;
-    /* 過度動畫長度指定半秒鐘 */
-    transition: all .5s;
-
-    background-color: #00ff73;
-    color: rgb(255, 0, 0);
-}
-
 
 /* 冒號的意思是選擇虛擬類別 */
 /* id選擇器, 選擇所有 id="wrapper"的東西裡面 class="btn" 的東西*/
